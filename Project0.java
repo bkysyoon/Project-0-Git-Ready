@@ -1,6 +1,9 @@
 public class Project0 {
     
     static class Student {
+        String name;
+        int id;
+        double gpa;
         
         
         Student(String name, int id, double gpa) {
