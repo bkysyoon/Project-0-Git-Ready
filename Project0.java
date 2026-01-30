@@ -18,7 +18,7 @@ public class Project0 {
         Student[] students = new Student[5];
         students[0] = new Student("Alice", 1001, 3.8);
         students[1] = new Student("Bob", 1002, 3.2);
-       
+       students[2] = new Student("Bob2", 1002, 3.3);
         students[3] = new Student("Diana", 1004, 2.8);
         students[4] = new Student("Eve", 1005, 3.5);
         
